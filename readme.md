@@ -55,6 +55,13 @@ Container is deployed automatically on EC2 instance.
   * 80 (HTTP)
   * 8080 (Jenkins)
   * 8081 (Application)
+ 
+<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/33838466-4a5c-4b5f-90fe-76e53361b02b" />
+
+---
+
+<img width="1638" height="662" alt="image" src="https://github.com/user-attachments/assets/34fe0426-45b2-412b-8233-a26831896bfb" />
+
 
 ---
 
@@ -121,7 +128,8 @@ http://44.204.114.214:8080
 
 ### 🔹 Application Running
 
-(Add screenshot here)
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/fcdb39d3-48a0-48a2-a2b2-838832b2a602" />
+
 
 ---
 
